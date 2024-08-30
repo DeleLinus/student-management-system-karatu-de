@@ -29,7 +29,7 @@ To get started with the Student Management System, follow these steps:
 
    ```bash
    git clone https://github.com/DeleLinus/student-management-system-karatu-de.git
-   cd student-management-system
+   cd student-management-system-karatu-de
    ```
 
 2. **Install the required dependencies**:
